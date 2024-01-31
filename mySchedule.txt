@@ -4,8 +4,6 @@
 => Belajar CSS Layout
 => Belajar CSS3
 => Belajar JavaScript
-=> Belajar JS DOMS
 => Belajar Node JS
 => Belajar React JS
-=> Belajar Bahasa Inggris
 => Belajar Bahasa Jepang
